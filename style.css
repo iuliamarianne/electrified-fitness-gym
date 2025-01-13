@@ -40,3 +40,7 @@
     font-weight: bold;
     font-family: Archivo;
   }
+
+  .row {
+    align-items: center;
+  }
