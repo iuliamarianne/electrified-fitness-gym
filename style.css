@@ -1,0 +1,42 @@
+.logo-title-navbar {
+    margin: 4px;
+    color: rgb(54, 17, 89);
+  }
+
+  .h1-title {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    justify-content: center;
+    font-family: Maven Pro;;
+  }
+
+  .slogan-text {
+    font-family: Maven Pro;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+  }
+
+  #h2SectionText {
+    font-family: Archivo;
+  }
+
+  #h2Title {
+    font-family: Maven Pro;
+    font-weight: bold;
+  }
+
+  #titleSlider {
+    font-family: Maven Pro;
+    font-size: 40px;
+  }
+
+  #textSlider {
+    font-family: Archivo;
+  }
+
+  .item-title {
+    font-weight: bold;
+    font-family: Archivo;
+  }
