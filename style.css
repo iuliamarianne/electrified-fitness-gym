@@ -27,12 +27,12 @@
     font-weight: bold;
   }
 
-  .title-slider {
+  #titleSlider {
     font-family: Maven Pro;
-    font-size: 30px;
+    font-size: 40px;
   }
 
-  .text-slider {
+  #textSlider {
     font-family: Archivo;
   }
 
