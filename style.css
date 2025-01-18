@@ -18,21 +18,21 @@
     font-size: 25px;
   }
 
-  #h2SectionText {
+  .h2-section-text {
     font-family: Archivo;
   }
 
-  #h2Title {
+  .h2-title {
     font-family: Maven Pro;
     font-weight: bold;
   }
 
-  #titleSlider {
+  .title-slider {
     font-family: Maven Pro;
     font-size: 40px;
   }
 
-  #textSlider {
+  .text-slider {
     font-family: Archivo;
   }
 
@@ -41,7 +41,7 @@
     font-family: Archivo;
   }
 
-  #h3Title {
+  .h3-title {
     font-family: Maven Pro;
   }
 
