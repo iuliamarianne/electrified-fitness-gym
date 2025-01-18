@@ -28,6 +28,13 @@
     font-weight: bold;
   }
 
+  .h2-title-abonamente {
+    font-family: Maven Pro;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+  }
+
   .title-slider {
     font-family: Maven Pro;
     font-size: 40px;
